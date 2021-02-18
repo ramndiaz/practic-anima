@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "anima"
+  "defaultProject": "anima",
+  "cli": {
+    "analytics": "a406d75f-38a3-448f-84be-8aa535f473f2"
+  }
 }
